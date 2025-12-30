@@ -1,12 +1,24 @@
-# Freedge Project
-This is the personal repository for the Week 17 implementation and GitHub deployment task.
+# Group Project – Freedge
 
-## Project Focus
-The focus of this project is "Publishing your work" as required by the course syllabus.
+This repository contains the implementation of our group project for the course.
 
-## System Access
-- **Source Code:** Hosted on this GitHub repository.
-- **Live Demo:** [https://yilewu5.github.io/Freedge_CS/]
+## 📌 Project Overview
+This project is a web-based system developed as part of a group assignment.
+The system provides a platform for sharing surplus food and demonstrates the core functionalities proposed in our project plan. The system is fully implemented and deployable.
 
-## Instructions
-To run this system locally, simply clone the repository and open `index.html` in any modern web browser.
+## 🚀 Live Demo
+You can access and interact with the system via the following link:
+
+🔗 **Live Website:**
+🔧https://yourname.github.io/your-repo-name/
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Firebase
+
+## ▶️ How to Run the Project Locally
+1. Clone this repository:
+```bash
+🔧git clone https://yilewu5.github.io/Freedge_CS/
