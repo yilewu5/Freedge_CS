@@ -21,4 +21,4 @@ You can access and interact with the system via the following link:
 ## ▶️ How to Run the Project Locally
 1. Clone this repository:
 ```bash
-🔧git clone https://yilewu5.github.io/Freedge_CS/
+https://yilewu5.github.io/Freedge_CS/
