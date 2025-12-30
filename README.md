@@ -10,7 +10,7 @@ The system provides a platform for sharing surplus food and demonstrates the cor
 You can access and interact with the system via the following link:
 
 🔗 **Live Website:**
-🔧https://yourname.github.io/your-repo-name/
+https://yilewu5.github.io/Freedge_CS/
 
 ## 🛠️ Technologies Used
 - HTML
@@ -21,4 +21,4 @@ You can access and interact with the system via the following link:
 ## ▶️ How to Run the Project Locally
 1. Clone this repository:
 ```bash
-https://yilewu5.github.io/Freedge_CS/
+https://github.com/yilewu5/Freedge_CS
