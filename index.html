@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freedge</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+    <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-database-compat.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Freedge</h1>
+    </header>
+
+    <section id="authForms">
+        <input type="email" id="email" placeholder="Email">
+        <input type="password" id="password" placeholder="Password">
+        <button id="registerBtn">Sign up</button>
+        <button id="loginBtn">Log in</button>
+    </section>
+
+    <section id="welcome" style="display:none;">
+        <p id="welcomeText"></p>
+        <button id="logoutBtn">Log out</button>
+    </section>
+
+    <section id="upload" style="display:none;">
+        <h2>Post Your Food</h2>
+        <button id="useMyLocationBtn">Use my location</button>
+        <form id="foodForm">
+<<<<<<< HEAD
+            <input type="text" id="foodName" placeholder="食物名稱" required>
+            <input type="text" id="foodLocation" placeholder="位置" required>
+=======
+            <input type="text" id="foodName" placeholder="Food" required>
+            <input type="text" id="foodLocation" placeholder="Location" required>
+>>>>>>> 138ef557e404ebb3b74f143e17e97daed70c4398
+            <input type="file" id="foodImage" accept="image/*" required>
+            <button type="submit">Post</button>
+        </form>
+        <div id="featuredList"></div>
+        <div id="foodList"></div>
+    </section>
+
+    <section id="map">
+        <h2>Freedge</h2>
+        <div id="mapid" style="height:400px;"></div>
+    </section>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
